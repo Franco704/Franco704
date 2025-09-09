@@ -1,4 +1,4 @@
-# 👨‍💻 Franco German Martinez
+# 👨‍💻 Franco German Martinez Soria
 
 🔧 **Técnico Electromecánico**  
 🎓 **Estudiante de Ingeniería en Sistemas de Información – UTN FRT**  
