@@ -45,5 +45,5 @@ Actualmente construyo mi **portafolio en GitHub** con proyectos que integran ing
 ## 📫 Contacto
 - 🔗 GitHub: [Franco704](https://github.com/Franco704)  
 - 💼 LinkedIn: [Franco German Martinez Soria](www.linkedin.com/in/martinezfranco704)  
-- ✉️ Email: [Personal Email](franmartinez704@gmail.com)  
+- ✉️ Email: [franmartinez704@gmail.com]
 
